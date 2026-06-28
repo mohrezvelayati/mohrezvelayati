@@ -10,7 +10,6 @@
 
 - 🧠 I'm Mohrez — a back-end developer who loves building useful and clean tools. 
 - 🛠️ Back-end is my thing, but I enjoy exploring new tools and tech.   
-- 🦀 Right now I'm diving deeper into Rust
 - 🧩 I’m always learning, always building — it’s the fun part of being a dev.
 
 
@@ -21,7 +20,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </div>
